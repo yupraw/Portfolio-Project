@@ -11,7 +11,7 @@ Insight and recommendations are provided in the following key areas
 
 **Data Source**
 Traveloka's reviews stored in Google Playstore API. It requires web scrapping technic to get necessary information from the database itself.
-Prior to web scrapping code and data cleaning methode can be found [here](https://github.com/yupraw/Portfolio-Project/blob/main/Web_Scraping_Sentiment_Analysis.ipynb)
+Prior to web scrapping code and data cleaning methode can be found [here](https://github.com/yupraw/Portfolio-Project/tree/main/Traveloka_Sentiment_Analysis)
 
 Data will be in this following format :
 
