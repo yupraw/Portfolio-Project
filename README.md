@@ -1,6 +1,6 @@
 # Portfolio-Project
 
-Sentiment Analysis of Traveloka in Google Playstore
+**Sentiment Analysis of Traveloka in Google Playstore**
 
 Traveloka is a Leading Travel Agent Start up Company which established in 2012. One of Unicorn Start-Up in indonesia. The company has significant amount of reviews on google playstore and this data can be a valuable resources to analyze the customer's experience using the app. This project thoroughly analyze and synthesizesthis data in order to discover critical insight that will impact to compaby's susccess
 
@@ -11,7 +11,7 @@ Insight and recommendations are provided in the following key areas
 
 **Data Source**
 Traveloka's reviews stored in Google Playstore API. It requires web scrapping technic to get necessary information from the database itself.
-Prior to web scrapping code can be found [here](https://github.com/yupraw/Portfolio-Project/blob/main/Web_Scraping_Sentiment_Analysis.ipynb)
+Prior to web scrapping code and data cleaning methode can be found [here](https://github.com/yupraw/Portfolio-Project/blob/main/Web_Scraping_Sentiment_Analysis.ipynb)
 
 Data will be in this following format :
 
