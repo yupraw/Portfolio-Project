@@ -1,44 +1,36 @@
-# Portfolio-Project
+# Wireline|Data Science|Machine Learning
 
-**Sentiment Analysis of Traveloka in Google Playstore**
+#### Technical Skills: Python, SQL, Ms. Excel, Spreadsheet, Tableu, Power BI
 
-Traveloka is a Leading Travel Agent Start up Company which established in 2012. One of Unicorn Start-Up in indonesia. The company has significant amount of reviews on google playstore and this data can be a valuable resources to analyze the customer's experience using the app. This project thoroughly analyze and synthesizesthis data in order to discover critical insight that will impact to compaby's susccess
+## Education
+- Bachelor's of Electrical Engineering.,  | Padang State of Polytechnic (2019)
 
-Insight and recommendations are provided in the following key areas
-1. Sentiment Analysis : Evaluation of sentiment distribution over the reviews
-2. Product Analysis : An analysis of Traveloka's feature which impact to customer's satisfaction
-3. Sentiment Trend over the time series : Historical patterns of sentiment over the time
+## Work Experience
+**Wireline Field Engineer - Elnusa Tbk (October 2023 - July 2024)**
+- Perform wireline services (Logging and Perforation) as per contract
+- Mentoring and develops assigned sub-ordinates to operate in a safe, efficient, and professional manner within Company policies and procedures
+- Strive for service quality in all assigned tasks and report any service quality issues
+  
+**RMG Operator - April Ltd (April 2021 - September 2024)**
+- Improving efficiency in container delivery from 50% on time to 100% on time
+- Uncovered and corrected missing step in Container Yard's SOP which impacted over 70% of empty container accuracy
+- Applied data analysis and business intelligent skill to monitor CY's operation by using Ms. Excel and Qlick
 
-**Data Source**
-Traveloka's reviews stored in Google Playstore API. It requires web scrapping technic to get necessary information from the database itself.
-Prior to web scrapping code and data cleaning methode can be found [here](https://github.com/yupraw/Portfolio-Project/blob/main/Web_Scraping_Sentiment_Analysis.ipynb)
+## Projects
+- Traveloka Sentiment Analysis
+  Utilized python to get raw data from google API by doing web scrapping and perform sentiment analysis on 190,000 Traveloka’s reviews from Google Playstore within range 2016 to 2024
+  Perform data cleaning and text analysis to successfully identified the major complaint for Traveloka features
 
-Data will be in this following format :
+- Farmhill Dashboard
+  The Goal was to analyze sales performance and creating impactable business strategy by understanding customer's behavior from data visualization 
 
-![image](https://github.com/user-attachments/assets/49f6fb4e-0012-412a-b2bb-f8bdd2b73f48)
+## Certification
+- Machine Learning with Python
+- Data Analysis with Python
+- Data Analytics Professional Certificate
+- Mathematics for Data Science
 
-
-
-**Overview and Finding**
-
-![image](https://github.com/user-attachments/assets/d08270b1-0ad7-4a7e-94ad-571ce81f477f)
-
-
-![image](https://github.com/user-attachments/assets/1c908efb-69ab-4ede-8ff3-54241840a921)
-
-
-1. Based on the sentiment analysis from 2016 to 2024, it was observed that the negative sentiment has remained stable throughout the period. However, in early 2024, there was a significant drop in positive sentiment, which has shown minimal recovery since then. This trend suggests a potential shift in customer perceptions that warrants further investigation to understand the underlying factors contributing to this decline.
-2. Customer feedback indicates a high level of dissatisfaction with the PayLater payment option, whether used for ticket bookings or hotel reservations. The dissatisfaction may be attributed to issues related to time, with possible root causes including the need for clearer communication regarding rescheduling timelines and the limitations on the PayLater service. Further investigation is required to identify and address these specific concerns effectively.
-3. Based on an analysis of 185,000 reviews from the Google Play Store, the overall sentiment towards the product is predominantly neutral, comprising 50.77% of the reviews. Positive sentiment follows at 42.16%, while negative sentiment accounts for 7.07%. This distribution highlights that while a significant portion of users express neutral feelings, a substantial proportion also share positive feedback, with a relatively small percentage indicating dissatisfaction.
-
-**Recomendation**
-
-1. Need further investigation reagrding payment with paylater. If necessary, categorize customer based on their payments methode and provide promos to customers who most loyals and using paylater as their payment methode
-2. Ensure the customer service is well trained to inform and answer queries from customers. If necessary create chatbot to automatically answer repeatative question from customers regarding similar issues
-3. Do optimization with Hotels services. Need further investigate regarding the booking, pricing, or competitor analysis as the cause of negative sentiment
-
-
-
-
-
+### Social links:
+[Github](https://github.com/yupraw)
+[Linkedin](https://www.linkedin.com/in/yudha-prawira-a6baab17a/)
 
