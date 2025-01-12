@@ -1,42 +1,44 @@
-# Portfolio-Project
+#Sales Dashboard
 
-**Sentiment Analysis of Traveloka in Google Playstore**
+Task:
 
-Traveloka is a Leading Travel Agent Start up Company which established in 2012. One of Unicorn Start-Up in indonesia. The company has significant amount of reviews on google playstore and this data can be a valuable resources to analyze the customer's experience using the app. This project thoroughly analyze and synthesizesthis data in order to discover critical insight that will impact to compaby's susccess
-
-Insight and recommendations are provided in the following key areas
-1. Sentiment Analysis : Evaluation of sentiment distribution over the reviews
-2. Product Analysis : An analysis of Traveloka's feature which impact to customer's satisfaction
-3. Sentiment Trend over the time series : Historical patterns of sentiment over the time
-
-**Data Source**
-Traveloka's reviews stored in Google Playstore API. It requires web scrapping technic to get necessary information from the database itself.
-Prior to web scrapping code and data cleaning methode can be found [here](https://github.com/yupraw/Portfolio-Project/blob/main/Web_Scraping_Sentiment_Analysis.ipynb)
-
-Data will be in this following format :
-
-![image](https://github.com/user-attachments/assets/49f6fb4e-0012-412a-b2bb-f8bdd2b73f48)
+The Goal was to analyze sales performance and creating impactable business strategy by understanding customer's behavior from data visualization
 
 
+Solution:
 
-**Overview and Finding**
+As business analyst I created a customized real-time dashboard using Tableau. The dashboard pulled data from company's databases in csv file
 
-![image](https://github.com/user-attachments/assets/d08270b1-0ad7-4a7e-94ad-571ce81f477f)
-
-
-![image](https://github.com/user-attachments/assets/1c908efb-69ab-4ede-8ff3-54241840a921)
+The dashboard answer business metrics such as September's Sales Performance, Location-Level Revenue, Customer Loyalty Analysis, Executive-Level Reporting
 
 
-1. Based on the sentiment analysis from 2016 to 2024, it was observed that the negative sentiment has remained stable throughout the period. However, in early 2024, there was a significant drop in positive sentiment, which has shown minimal recovery since then. This trend suggests a potential shift in customer perceptions that warrants further investigation to understand the underlying factors contributing to this decline.
-2. Customer feedback indicates a high level of dissatisfaction with the PayLater payment option, whether used for ticket bookings or hotel reservations. The dissatisfaction may be attributed to issues related to time, with possible root causes including the need for clearer communication regarding rescheduling timelines and the limitations on the PayLater service. Further investigation is required to identify and address these specific concerns effectively.
-3. Based on an analysis of 185,000 reviews from the Google Play Store, the overall sentiment towards the product is predominantly neutral, comprising 50.77% of the reviews. Positive sentiment follows at 42.16%, while negative sentiment accounts for 7.07%. This distribution highlights that while a significant portion of users express neutral feelings, a substantial proportion also share positive feedback, with a relatively small percentage indicating dissatisfaction.
+Result
 
-**Recomendation**
+Details of Dashboard can be accessed [here](https://public.tableau.com/app/profile/yudha.prawira2974/viz/FarmhillDashboard/Dashboard1?publish=yes)
 
 
+Overall Dashboard Overviews
+
+![image](https://github.com/user-attachments/assets/2750b3d2-7203-41f0-a324-8fb15b25672e)
 
 
+Here are insights and actionable takeaways based on the provided objectives:
 
+1. Global Sales Performance Analysis
+Insights:
+- Top 5 Location by Revenue and Quantity
+- Top 5 most selling product by Revenue and Quantity
+- Total Net Sales vs frequency of orders
+- Net Sales weekly trend
+- Salesperson performance
 
+Recomendation
 
-
+1. Early Month Promo: Launch promotional campaigns at the beginning of each month to boost sales.
+2. Program Membership & Loyalty: Implement membership and loyalty programs, offering exclusive deals to top-spending customers.
+3. Customer Insight Analysis: Conduct in-depth research on customer preferences regarding Ubi Cilembu, focusing on price, quality, and branding.
+4. Inventory Management: Ensure consistent availability of Aruni products and promote similar products at lower prices.
+5. Sales Incentives: Reward salespersons exceeding targets and recognize top performers monthly.
+6. Sales Training & Motivation: Provide training, motivation and performance monitoring for sales teams.
+7. Marketing Strategy: Target retail groups with bundled purchase promotions, highlighting efficiency benefits.
+8. Expanded Marketing Reach: Maximize marketing efforts across Java Island, beyond Jakarta, utilizing various media channels.
