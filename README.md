@@ -33,9 +33,7 @@ Data will be in this following format :
 
 **Recomendation**
 
-1. Need further investigation reagrding payment with paylater. If necessary, categorize customer based on their payments methode and provide promos to customers who most loyals and using paylater as their payment methode
-2. Ensure the customer service is well trained to inform and answer queries from customers. If necessary create chatbot to automatically answer repeatative question from customers regarding similar issues
-3. Do optimization with Hotels services. Need further investigate regarding the booking, pricing, or competitor analysis as the cause of negative sentiment
+
 
 
 
