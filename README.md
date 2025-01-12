@@ -6,6 +6,13 @@
 - Bachelor's of Electrical Engineering.,  | Padang State of Polytechnic (2019)
 
 ## Work Experience
+
+**Finance Account Payables Associate - (September 2024 – December 2024)***
+Deliveree PT. Angkut Teknologi Indonesia. (Logistic Start Up Company, Jakarta, Indonesia)
+- Increasing 75% of customer satisfaction by identifying and resolving a missing attribute in customer refund process as the cause of customer complaints through google spreadsheet-based analysis.
+- Designed and implemented an automated payment system for daily payouts and increasing operational efficiency by 30% as well as ensuring error-free transactions for over 500 payments daily by using Python programming
+- Collaborated effectively with cross-functional teams across multiple divisions to drive project success, ensure seamless communication, and achieve organizational objectives.
+
 **Wireline Field Engineer - Elnusa Tbk (October 2023 - July 2024)**
 - Perform wireline services (Logging and Perforation) as per contract
 - Mentoring and develops assigned sub-ordinates to operate in a safe, efficient, and professional manner within Company policies and procedures
