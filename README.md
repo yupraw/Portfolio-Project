@@ -14,5 +14,6 @@ Traveloka's reviews stored in Google Playstore API. It requires web scrapping te
 Prior to web scrapping code can be found [here](https://github.com/yupraw/Portfolio-Project/blob/main/Web_Scraping_Sentiment_Analysis.ipynb)
 
 Data will be in this following format :
+
 ![image](https://github.com/user-attachments/assets/49f6fb4e-0012-412a-b2bb-f8bdd2b73f48)
 
