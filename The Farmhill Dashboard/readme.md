@@ -24,13 +24,29 @@ Overall Dashboard Overviews
 
 Here are insights and actionable takeaways based on the provided objectives:
 
-1. Global Sales Performance Analysis
-Insights:
-- Top 5 Location by Revenue and Quantity
-- Top 5 most selling product by Revenue and Quantity
-- Total Net Sales vs frequency of orders
-- Net Sales weekly trend
-- Salesperson performance
+Sales Performance Analysis
+Insights and Actionable Takeaways:
+
+1. Top 5 Locations by Revenue and Quantity
+
+Identify locations contributing the most to overall sales and high product demand.
+Actionable Takeaway: Focus marketing efforts and inventory optimization in these regions to maximize revenue.
+Top 5 Most Selling Products by Revenue and Quantity
+
+2. Highlight products driving the highest revenue and units sold.
+Actionable Takeaway: Prioritize these products for promotions, stock replenishment, and targeted marketing campaigns.
+Total Net Sales vs. Frequency of Orders
+
+Analyze the correlation between total net sales and the number of orders placed.
+Actionable Takeaway: Use this insight to enhance customer retention strategies and order frequency.
+Weekly Net Sales Trend
+
+3. Track sales trends over time on a weekly basis to identify seasonal patterns or anomalies.
+Actionable Takeaway: Align inventory, staffing, and promotions with expected sales fluctuations.
+Salesperson Performance
+
+4. Evaluate individual contributions to overall sales performance.
+Actionable Takeaway: Recognize and reward top performers while providing targeted training for underperforming team members.
 
 Recomendation
 
