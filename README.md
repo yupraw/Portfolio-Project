@@ -18,7 +18,7 @@ Deliveree PT. Angkut Teknologi Indonesia. (Logistic Start Up Company, Jakarta, I
 - Mentoring and develops assigned sub-ordinates to operate in a safe, efficient, and professional manner within Company policies and procedures
 - Strive for service quality in all assigned tasks and report any service quality issues
   
-**RMG Operator - April Ltd (April 2021 - September 2024)**
+**Business Analyst - April Ltd (April 2021 - September 2024)**
 - Improving efficiency in container delivery from 50% on time to 100% on time
 - Uncovered and corrected missing step in Container Yard's SOP which impacted over 70% of empty container accuracy
 - Applied data analysis and business intelligent skill to monitor CY's operation by using Ms. Excel and Qlick
