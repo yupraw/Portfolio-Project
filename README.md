@@ -9,14 +9,16 @@
 
 **Finance Account Payables Associate - (September 2024 – December 2024)***
 Deliveree PT. Angkut Teknologi Indonesia. (Logistic Start Up Company, Jakarta, Indonesia)
-- Increasing 75% of customer satisfaction by identifying and resolving a missing attribute in customer refund process as the cause of customer complaints through google spreadsheet-based analysis.
 - Designed and implemented an automated payment system for daily payouts and increasing operational efficiency by 30% as well as ensuring error-free transactions for over 500 payments daily by using Python programming
 - Collaborated effectively with cross-functional teams across multiple divisions to drive project success, ensure seamless communication, and achieve organizational objectives.
+- Managed timely processing of vendor payments over 200 payment per day, ensuring accurate transaction reconciliation and preparation of detailed monthly finance operation reports
 
 **Wireline Field Engineer - Elnusa Tbk (October 2023 - July 2024)**
-- Perform wireline services (Logging and Perforation) as per contract
-- Mentoring and develops assigned sub-ordinates to operate in a safe, efficient, and professional manner within Company policies and procedures
-- Strive for service quality in all assigned tasks and report any service quality issues
+- To design, execute and evaluate job as per content of contract
+- Ensuring the preparation of job is conducted properly.
+- Mentoring and develops assigned sub-ordinates to operate in a safe, efficient, and professional manner within Company policies and procedures.
+- Ensures completion of service report, service ticket and data acquisition for services provided
+
   
 **Business Analyst - April Ltd (April 2021 - September 2024)**
 - Improving efficiency in container delivery from 50% on time to 100% on time
