@@ -39,4 +39,3 @@ Deliveree PT. Angkut Teknologi Indonesia. (Logistic Start Up Company, Jakarta, I
 ### Social links:
 [Github](https://github.com/yupraw)
 [Linkedin](https://www.linkedin.com/in/yudha-prawira-a6baab17a/)
-
