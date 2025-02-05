@@ -84,7 +84,7 @@ Assessing the creditworthiness of a company involves an evaluation of various fi
 - Net Leverage: Increased by approximately 3.2 (62%), driven by the leverage metric improvement but offset by reduced cash balance.
 - Cash Flow/ Capital Expenditure Ratio: Changed by 0.4 due to higher capital expenditure relative to cash flows from operating activities, suggesting cautious investment strategies.
   
-**Risk Assessment**
+## Risk Assessment
 
 **Key Financial Risks**
 1.	Liquidity Risk: The slight drop in cash and cash equivalents and current asset ratio requires close monitoring to ensure the company can meet its short-term obligations.
