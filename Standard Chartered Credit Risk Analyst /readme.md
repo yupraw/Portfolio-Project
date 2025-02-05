@@ -10,6 +10,7 @@ The company has rapidly transformed its processes towards sustainability and eco
 **Task Overview**
 - Analyse financial statements to assess a client's financial stability and interpret and evaluate financial data.
 - Best practices for conducting risk assessment with the help of key financial ratios
+- Details of Green Solution Portfolios can be found [here](https://github.com/yupraw/Portfolio-Project/blob/main/Standard%20Chartered%20Credit%20Risk%20Analyst%20/Financial%20Statement/Task%201%20Financial%20Reporting%20Tool%20(1).xlsx)
 
 
 **Goal** 
