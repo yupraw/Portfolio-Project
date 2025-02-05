@@ -26,6 +26,7 @@ Deliveree PT. Angkut Teknologi Indonesia. (Logistic Start Up Company, Jakarta, I
 ## Projects
 - [Traveloka Sentiment Analysis](https://github.com/yupraw/Portfolio-Project/tree/main/Traveloka_Sentiment_Analysis)
 - [Farmhill Dashboard](https://github.com/yupraw/Portfolio-Project/tree/main/The%20Farmhill%20Dashboard)
+- [Credit Risk Analyst](https://github.com/yupraw/Portfolio-Project/tree/main/Standard%20Chartered%20Credit%20Risk%20Analyst%20)
 
 ## Certification
 - Machine Learning with Python
