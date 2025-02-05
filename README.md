@@ -1,4 +1,4 @@
-# Wireline|Data Science|Machine Learning
+# Business Analyst||Machine Learning
 
 #### Technical Skills: Python, SQL, Ms. Excel, Spreadsheet, Tableu, Power BI
 
@@ -20,7 +20,7 @@ Deliveree PT. Angkut Teknologi Indonesia. (Logistic Start Up Company, Jakarta, I
 - Ensures completion of service report, service ticket and data acquisition for services provided
 
   
-**Business Analyst - April Ltd (April 2021 - September 2024)**
+**Business Analyst - April Ltd (April 2021 - September 2023)**
 - Improving efficiency in container delivery from 50% on time to 100% on time
 - Uncovered and corrected missing step in Container Yard's SOP which impacted over 70% of empty container accuracy
 - Applied data analysis and business intelligent skill to monitor CY's operation by using Ms. Excel and Qlick
