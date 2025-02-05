@@ -24,12 +24,8 @@ Deliveree PT. Angkut Teknologi Indonesia. (Logistic Start Up Company, Jakarta, I
 - Applied data analysis and business intelligent skill to monitor CY's operation by using Ms. Excel and Qlick
 
 ## Projects
-- Traveloka Sentiment Analysis
-  Utilized python to get raw data from google API by doing web scrapping and perform sentiment analysis on 190,000 Traveloka’s reviews from Google Playstore within range 2016 to 2024
-  Perform data cleaning and text analysis to successfully identified the major complaint for Traveloka features
-
-- Farmhill Dashboard
-  The Goal was to analyze sales performance and creating impactable business strategy by understanding customer's behavior from data visualization 
+- [Traveloka Sentiment Analysis](https://github.com/yupraw/Portfolio-Project/tree/main/Traveloka_Sentiment_Analysis)
+- [Farmhill Dashboard](https://github.com/yupraw/Portfolio-Project/tree/main/The%20Farmhill%20Dashboard)
 
 ## Certification
 - Machine Learning with Python
